@@ -1,0 +1,5 @@
+Dell,8,256,Windows,Black
+HP,16,512,Windows,Silver
+Apple,8,256,macOS,Gray
+Lenovo,4,128,Windows,Black
+Asus,16,1024,Linux,Blue
