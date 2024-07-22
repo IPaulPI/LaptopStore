@@ -38,7 +38,7 @@ class Laptop {
 
     @Override
     public String toString() {
-        return brand + "," + ram + "," + storage + "," + os + "," + color;
+        return brand + " " + ram + " " + storage + " " + os + " " + color;
     }
 }
 

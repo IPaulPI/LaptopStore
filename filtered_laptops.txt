@@ -1,2 +1,2 @@
-HP,16,512,Windows,Silver
-Asus,16,1024,Linux,Blue
+HP 16 512 Windows Silver
+Asus 16 1024 Linux Blue
